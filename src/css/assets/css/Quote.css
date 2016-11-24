@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+.quote a {
+    text-decoration: none;
+    color:#777777;
+    font-style: italic;
+}
+
+.quote a:hover {
+    color:black;
+}
+.quote {
+    border-bottom:1px dashed black;
+    padding:50px;
+}
+
+.quotePage {
+    text-align: center;
+}
+
+.quotePage p {
+    font-size:2em;
+}
