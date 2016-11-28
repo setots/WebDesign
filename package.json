@@ -1,7 +1,7 @@
 {
   "name": "data-browser",
   "author": "YOUR NAME HERE",
-  "homepage": "https://info343-au16.github.io/challenges-YOURUSERNAME/data-browser/build",
+  "homepage": "https://students.washington.edu/setots/INFO343/WebDesign/build",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
